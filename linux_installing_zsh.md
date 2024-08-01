@@ -6,6 +6,8 @@ The reason of installing ZSH is that it is a very customizable option, it allows
 
 We are also installing Oh My Zsh, that is a framework for Zsh (Z shell).
 
+#### July 30, 2024
+
 ## Install ZSH
 
 1 - First, confirm that you don't have Zsh already installed:

@@ -6,6 +6,8 @@ As we know, in our development environment (DEBUG=True) Django can help us servi
 
 To follow this tutorial you have to use Django 4.2 or higher, since it was when the [STORAGES](https://docs.djangoproject.com/en/5.0/ref/settings/#storages) setting was added. [More details](https://docs.djangoproject.com/en/dev/releases/4.2/#custom-file-storages).
 
+#### August 1, 2024
+
 # Required libraries
 
 - [python-decouple](https://pypi.org/project/python-decouple/)
